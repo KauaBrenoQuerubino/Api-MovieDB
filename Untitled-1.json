@@ -1,0 +1,40 @@
+{
+    "Title": "Scott Pilgrim vs. the World",
+    "Year": "2010",
+    "Rated": "PG-13",
+    "Released": "13 Aug 2010",
+    "Runtime": "112 min",
+    "Genre": "Action, Comedy, Fantasy",
+    "Director": "Edgar Wright",
+    "Writer": "Michael Bacall, Edgar Wright, Bryan Lee O'Malley",
+    "Actors": "Michael Cera, Mary Elizabeth Winstead, Kieran Culkin",
+    "Plot": "In a magically realistic version of Toronto, a young man must defeat his new girlfriend's seven evil exes one by one in order to win her heart.",
+    "Language": "English",
+    "Country": "United States, United Kingdom, Canada, Japan",
+    "Awards": "18 wins & 65 nominations",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWI5ODc4MTAtN2U2NC00ZDk3LWE3NjAtNjIyODE2YTlhYjYwXkEyXkFqcGdeQXVyOTA3ODI3NDA@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "Metascore": "69",
+    "imdbRating": "7.6",
+    "imdbVotes": "463,450",
+    "imdbID": "tt0446029",
+    "Type": "movie",
+    "DVD": "15 Jun 2012",
+    "BoxOffice": "$33,391,900",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}
